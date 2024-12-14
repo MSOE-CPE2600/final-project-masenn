@@ -1,3 +1,13 @@
+/**
+ * @file wav.c
+ * @brief wave file for final lab 2024
+ * 
+ * Course: CPE2600
+ * Section: 011
+ * Assignment: Final
+ * Name: Matthew Senn
+ */
+
 #include "wav.h"
 
 

@@ -1,3 +1,13 @@
+/**
+ * @file wav.h
+ * @brief header for the wave file
+ * 
+ * Course: CPE2600
+ * Section: 011
+ * Assignment: Final
+ * Name: Matthew Senn
+ */
+
 #ifndef WAV_H
 #define WAV_H
 

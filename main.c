@@ -1,3 +1,13 @@
+/**
+ * @file main.c
+ * @brief main file for final lab 2024
+ * 
+ * Course: CPE2600
+ * Section: 011
+ * Assignment: Final
+ * Name: Matthew Senn
+ */
+
 #include <stdio.h>
 #include <math.h>
 #include <stdint.h>
